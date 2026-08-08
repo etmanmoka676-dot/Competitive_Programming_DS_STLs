@@ -1,4 +1,4 @@
-# 🚀 ICPC Mansoura - Data Structures & STL Sheets
+# 🚀  Data Structures & STL Sheets
 
 Welcome to my repository! Here, I share my solutions for the **Data Structures** and **STL** sheets from **ICPC Mansoura**.
 
